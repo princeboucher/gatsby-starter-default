@@ -15,7 +15,7 @@ const IndexPage = () => (
       <Image />
     </div>
     <a href="https://www.twitter.com/princeboucher">Contact Me</a>
-    <a href="https://www.princeboucher.com/page-2/">
+    <a href="https://www.princeboucher.com/page-2/">Page 2</a>
   </Layout>
 )
 
