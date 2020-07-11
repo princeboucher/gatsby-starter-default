@@ -9,9 +9,9 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>I'm a creative.</h1>
-    <p>I'm inspired by collaborating with activists, creatives, and technologists at the intersection of civic, media, and technology.</p>
-    <p>I've been running <a href="https://www.followtheprince.com">Follow The Prince</a> for over ten years working with brands like 300 Entertainment, AWS, Interscope, Funny or Die, Fullscreen, and UnitedHealth. In between I've been a first marketing hire at LittleCast, Joyus, and Fin.</p>
-    <p>Lately, I'm vigilantly social distancing with a mask at all times and mostly volunteering at <a href="www.usdigitalresponse.org">U.S. Digital Response.</a> </p>
+    <p>Inspiring activists, creatives, and technologists at the intersection of civic, media, and technology peak my curiousity.</p>
+    <p><a href="https://www.followtheprince.com">Follow The Prince</a> is where I've worked on projects with 300 Entertainment, AWS, Interscope, Funny or Die, Fullscreen, and UnitedHealth. In between I've been a content lead at LittleCast, Joyus, and Fin.</p>
+    <p>Lately, I'm social distancing with my mask and mostly volunteering at <a href="https://www.usdigitalresponse.org">U.S. Digital Response.</a> </p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
