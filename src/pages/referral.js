@@ -24,7 +24,7 @@ $.ajax({
     error: function(response) {
         fail_callback(response);
     }
-});
+);
 }
 
 function submit_email_to_waitlist(){
