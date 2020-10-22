@@ -76,7 +76,7 @@ function submit_email_to_waitlist(){
         }, success_callback, fail_callback);
 };
 
-                    
+
 
   </Layout>
 )
